@@ -9,24 +9,24 @@
             0.25
         ],
         [
-            true,
-            "None",
-            1.0
+            false,
+            "Nude_male_photoshoot.safetensors",
+            0.20
         ],
         [
-            true,
-            "None",
-            1.0
+            false,
+            "White_jockstrap-sexy_male_clothing.safetensors",
+            0.20
         ],
         [
-            true,
-            "None",
-            1.0
+            false,
+            "X_penis.safetensors",
+            0.20
         ],
         [
-            true,
-            "None",
-            1.0
+            false,
+            "NonNeobro2_SD1_5.safetensors",
+            0.20
         ]
     ],
     "default_cfg_scale": 3.0,
@@ -35,12 +35,12 @@
     "default_scheduler": "karras",
     "default_performance": "Speed",
     "default_prompt": "",
-    "default_prompt_negative": "unrealistic, saturated, high contrast, big nose, painting, drawing, sketch, cartoon, anime, manga, render, CG, 3d, watermark, signature, label",
+    "default_prompt_negative": "unrealistic, saturated, high contrast, big nose, painting, drawing, sketch, cartoon, anime, manga, render, CG, 3d, watermark, signature, label, missing fingers, extra fingers",
     "default_styles": [
         "Fooocus V2",
         "Fooocus Photograph",
         "Fooocus Negative",
-        "Fooocus Sharpen"
+        "Fooocus Sharp"
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
