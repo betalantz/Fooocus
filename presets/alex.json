@@ -25,7 +25,7 @@
         ],
         [
             false,
-            "Neobro2_SD1_5.safetensors",
+            "None",
             0.20
         ]
     ],
@@ -55,8 +55,7 @@
         "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors",
         "Nude_male_photoshoot.safetensors": "https://civitai.com/api/download/models/255700",
         "X_penis.safetensors": "https://civitai.com/api/download/models/443737",
-        "White_jockstrap-sexy_male_clothing.safetensors": "https://civitai.com/api/download/models/271146",
-        "Neobro2_SD1_5.safetensors": "https://civitai.com/api/download/models/137042"
+        "White_jockstrap-sexy_male_clothing.safetensors": "https://civitai.com/api/download/models/271146"
     },
     "previous_default_models": ["realisticStockPhoto_v10.safetensors"]
 }
