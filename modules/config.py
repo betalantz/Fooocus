@@ -441,6 +441,7 @@ embeddings_downloads = get_config_item_or_set_default(
 available_aspect_ratios = get_config_item_or_set_default(
     key="available_aspect_ratios",
     default_value=[
+        "320*320",
         "704*1408",
         "704*1344",
         "768*1344",
@@ -453,6 +454,10 @@ available_aspect_ratios = get_config_item_or_set_default(
         "960*1024",
         "1024*1024",
         "1024*960",
+        "1080*566",
+        "1080*1350",
+        "1080*1080",
+        "1080*1920",
         "1088*960",
         "1088*896",
         "1152*896",

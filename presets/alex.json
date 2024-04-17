@@ -42,7 +42,7 @@
         "Fooocus Negative",
         "Fooocus Sharp"
     ],
-    "default_aspect_ratio": "896*1152",
+    "default_aspect_ratio": "1080*1920",
     "checkpoint_downloads": {
         "realisticStockPhoto_v20.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/realisticStockPhoto_v20.safetensors",
         "RealisticVision_v6_0_B1.safetensors": "https://civitai.com/api/download/models/130072",
